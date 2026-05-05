@@ -1,6 +1,6 @@
 # The Prompt Engineering OS
 
-[![Version](https://img.shields.io/badge/version-1.0.0-6366f1?style=flat-square)](https://github.com/edgeless-ai/prompt-engineering-os/releases)
+[![Version](https://img.shields.io/badge/version-1.0.0-6366f1?style=flat-square)](https://github.com/thedavidmurray/prompt-engineering-os/releases)
 [![License](https://img.shields.io/badge/license-MIT-10b981?style=flat-square)](LICENSE)
 
 **Stop guessing. Start engineering.**
@@ -93,20 +93,14 @@ The open-source content above is the framework overview. The full Prompt Enginee
 - **100+ Applied Templates** - for software engineering, writing, image generation, and business (Chapters 27-30)
 - **Companion Files** - CLAUDE.md starter templates, skill schemas, quick reference cards (Pro tier)
 
-**Available at [edgeless.gumroad.com](https://edgeless.gumroad.com/l/prompt-engineering-os)**
-
-| Tier | Price | What's Included |
-|------|-------|----------------|
-| Starter | $29 | Full 30-chapter guide (HTML + PDF) |
-| Professional | $59 | Guide + CLAUDE.md templates + skill schemas + reference cards |
-| Team | $99 | Everything in Pro + 5-seat license + 12 months of updates |
+**Free at [edgelesslab.com](https://edgelesslab.com)**
 
 ---
 
 ## About
 
-Made by [Edgeless](https://edgeless.gumroad.com). Built for people who build with AI.
+Made by [Edgeless](https://edgelesslab.com). Built for people who build with AI.
 
 ## License
 
-The content in this repository is released under the [MIT License](LICENSE). The full product is separately licensed - see the product page for terms.
+[MIT License](LICENSE)
